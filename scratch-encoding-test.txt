@@ -1,0 +1,2 @@
+LATIN1-TEST
+AéÿB
